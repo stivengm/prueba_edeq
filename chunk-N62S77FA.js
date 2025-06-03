@@ -1,0 +1,1 @@
+import{Fa as n,M as o,ec as i}from"./chunk-V4K2SX2X.js";var a=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["app-ami"]],decls:1,vars:0,template:function(t,p){t&1&&n(0,"router-outlet")},dependencies:[i]})}}return e})();export{a};
